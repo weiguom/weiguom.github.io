@@ -15,7 +15,7 @@ author_profile: true
 ## Publications in Refereed Journals
 24\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation I: directly learning a gradient based closure](https://www.sciencedirect.com/science/article/pii/S0021999122000031), *Journal of Computational Physics*, 453, 110941, 2022.
 
-23\. **J. Huang**, Y. Liu, Y. Liu, Z. Tao, and Y. Cheng. [A class of adaptive multiresolution ultra-weak discontinuous Galerkin methods for some nonlinear dispersive wave equations](https://arxiv.org/abs/2104.05523), *SIAM Journal on Scientific Computing*, accepted, 2021.
+23\. **J. Huang**, Y. Liu, Y. Liu, Z. Tao, and Y. Cheng. [A class of adaptive multiresolution ultra-weak discontinuous Galerkin methods for some nonlinear dispersive wave equations](https://epubs.siam.org/doi/10.1137/21M1411391), *SIAM Journal on Scientific Computing*, 44(2), A745-A769, 2022.
 
 22\. **J. Huang**, Y. Zhou, and W.-A. Yong. [Data-driven discovery of multiscale chemical reactions governed by the law of mass action](https://www.sciencedirect.com/science/article/pii/S0021999121006380), *Journal of Computational Physics*, 448, 110743, 2022.
 
