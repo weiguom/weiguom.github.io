@@ -12,17 +12,17 @@ I am currently an assistant professor in [the Department of Mathematics and Stat
 
 Education
 ======
-- Ph.D. in Applied Mathematics (with honors), Tsinghua University, Beijing, China, July 2018. <br>
-  Advisor: [Prof. Wen-An Yong](https://scholar.google.com/citations?user=w4fQqqkAAAAJ&hl=en)
-- B.Sc. in Mathematics, Tsinghua University, Beijing, China, July 2013.
-- B.Eng. in Engineering Mechanics, Tsinghua University, Beijing, China, July 2013.
+- Ph.D. in Applied Mathematics, University of Houston (2014). <br>
+  Advisor: [Prof. Jing-Mei Qiu](https://jingmeiqiu.github.io/)
+- M.S. in Computational Mathematics, Nanjing University (2009).
+  Advisor: [Prof. Jian-Xian Qiu](http://ccam.xmu.edu.cn/teacher/jxqiu/index_e.htm)
+- B.S. in Information and Computational Science, Nanjing University (2007).
 
 Professional Experience
 ======
-- Visiting Assistant Professor, Department of Mathematics, Michigan State University, September 2018 - present. <br>
-  Mentor: [Prof. Yingda Cheng](https://sites.google.com/view/yingda-cheng/) and [Prof. Andrew J. Christlieb](http://www.the-christlieb-group.org/)
-- Visiting Ph.D. student, Division of Applied Mathematics, Brown University, September 2015 - September 2016. <br>
-  Mentor: [Prof. Chi-Wang Shu](http://www.dam.brown.edu/people/shu/)
+- Assistant professor, Texas Tech University (Sept. 2017 – present) <br>
+- Visiting research associate, Michigan State University (Aug. 2014 – Aug. 2017). <br>
+  Mentor: [Prof. Andrew J. Christlieb](http://www.the-christlieb-group.org/)
 
 Research Interests
 ======
