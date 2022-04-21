@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a [visiting assistant professor](https://math.msu.edu/directory/PersonalPage?id=111117030) in the [Department of Mathematics](https://math.msu.edu/) at [Michigan State University](https://msu.edu/).
+I am currently an assistant professor in [the Department of Mathematics and Statistics](https://www.depts.ttu.edu/math/) at [Texas Tech University](https://www.ttu.edu/).
 
 Education
 ======
