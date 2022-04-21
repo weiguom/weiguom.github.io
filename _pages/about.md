@@ -20,15 +20,13 @@ Education
 
 Professional Experience
 ======
-- Assistant professor, Texas Tech University (Sept. 2017 – present) <br>
+- Assistant professor, Texas Tech University (Sept. 2017 – present).
 - Visiting research associate, Michigan State University (Aug. 2014 – Aug. 2017). <br>
   Mentor: [Prof. Andrew J. Christlieb](http://www.the-christlieb-group.org/)
 
 Research Interests
 ======
-My research interests mainly focus on scientific computing, numerical analysis and scientific machine learning. Topics of special interests include:
-- Structure-preserving machine learning moment closures for kinetic models
-- Adaptive sparse grid discontinuous Galerkin methods for high-dimensional PDEs
-- Structure-preserving time discretizations for hyperbolic balance laws
-- High order numerical boundary conditions for hyperbolic equations
-- Boundary schemes of lattice Boltzmann method
+- Dimension reduction methods with high order accuracy and structure preservation for high-dimensional problems, including sparse grids, low-rank tensor decompositions, and machine learning.
+- High order numerical methods for hyperbolic conservation laws and Hamilton-Jacobi equations.
+- High order semi-Lagrangian methods and their applications in kinetic simulations, computational fluid dynamics, and atmospheric modelings.
+
