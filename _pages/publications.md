@@ -44,7 +44,7 @@ preprint.
 
 17\. X. Cai, W. Guo, and J.-M. Qiu, "[A high order semi-Lagrangian discontinuous Galerkin method for the two-dimensional incompressible Euler equations and the guiding center Vlasov model without operator splitting](https://link.springer.com/article/10.1007/s10915-018-0889-1)", Journal of Scientific Computing, v79 (2019), pp.1111--1134.
 
-16. G. Ke and W. Guo, "[An alternative formulation of discontinuous Galerkin schemes for solving Hamilton-Jacobi equations](https://link.springer.com/article/10.1007/s10915-018-0794-7)",  Journal of Scientific Computing, v78 (2019), pp.1023--1044.
+16\. G. Ke and W. Guo, "[An alternative formulation of discontinuous Galerkin schemes for solving Hamilton-Jacobi equations](https://link.springer.com/article/10.1007/s10915-018-0794-7)",  Journal of Scientific Computing, v78 (2019), pp.1023--1044.
 
 
 15\. X. Cai, W. Guo, and J.-M. Qiu, "[A high order semi-Lagrangian discontinuous Galerkin method for Vlasov-Poisson simulations without operator splitting](https://www.sciencedirect.com/science/article/pii/S002199911730815X)",  Journal of Computational Physics, v354 (2018), pp.529--551.
