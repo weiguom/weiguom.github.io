@@ -24,9 +24,9 @@ preprint.
 26\. X. Cai, W. Guo, and J.-M. Qiu, "[Comparison of semi-Lagrangian discontinuous Galerkin schemes for linear and nonlinear transport simulations](https://link-springer-com.lib-e2.lib.ttu.edu/article/10.1007/s42967-020-00088-0)", v4 (2022), pp.3–-33.
 
 
-25\. W. Guo, **J. Huang**, Z. Tao, and Y. Cheng. [An adaptive sparse grid local discontinuous Galerkin method for Hamilton-Jacobi equations in high dimensions](https://www.sciencedirect.com/science/article/pii/S0021999121001893), *Journal of Computational Physics*, 436, 110294, 2021.
+25\. W. Guo, **J. Huang**, Z. Tao, and Y. Cheng. "[An adaptive sparse grid local discontinuous Galerkin method for Hamilton-Jacobi equations in high dimensions](https://www.sciencedirect.com/science/article/pii/S0021999121001893)", *Journal of Computational Physics*, 436, 110294, 2021.
 
-24\. Z. Tao, J. Huang, Y. Liu, W. Guo, and Y. Cheng, “An adaptive multiresolution ultra-weak discontinuous Galerkin method for nonlinear Schrodinger equations(https://link.springer.com/article/10.1007/s42967-020-00096-0)”, Communications on Applied Mathematics and Computation, (2021)
+24\. Z. Tao, J. Huang, Y. Liu, W. Guo, and Y. Cheng, “[An adaptive multiresolution ultra-weak discontinuous Galerkin method for nonlinear Schrodinger equations](https://link.springer.com/article/10.1007/s42967-020-00096-0)”, Communications on Applied Mathematics and Computation, (2021)
 
 23\. J. Huang, Y. Liu, W. Guo, Z. Tao, and Y. Cheng, “[An adaptive multiresolution interior penalty discontinuous Galerkin method for wave equations in second order form](https://link.springer.com/article/10.1007/s10915-020-01322-w)”, Journal of Scientific Computing, v85 (2020).
 
