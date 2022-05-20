@@ -14,9 +14,7 @@ Education
 ======
 - Ph.D. in Applied Mathematics, University of Houston (2014). <br>
   Advisor: [Prof. Jing-Mei Qiu](https://jingmeiqiu.github.io/)
-- M.S. in Computational Mathematics, Nanjing University (2009). <br>
-  Advisor: [Prof. Jian-Xian Qiu](http://ccam.xmu.edu.cn/teacher/jxqiu/index_e.htm)
-- B.S. in Information and Computational Science, Nanjing University (2007).
+
 
 Professional Experience
 ======
